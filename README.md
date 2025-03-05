@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TIJANC
 - 👀 I’m interested in sport analytics and sport psychology
-- 🌱 I’m currently learning applications of statistics in cognitive psychology and neuroscience
-- 💞️ I’m looking to collaborate on sport psychology and statistics 
-- 📫 How to reach me Tijan.cvetkovic@gmail.com
+- 🌱 I’m currently working on various research projects at the Institute of Cognitive Science and Technology and the University of Florence
+- 💞️ I’m looking to collaborate on research projects
+- 📫 How to reach me tijan.cvetkovic@gmail.com
 
 <!---
 TIJANC/TIJANC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
